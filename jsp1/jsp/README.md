@@ -2,7 +2,7 @@ JINDAL STEEL HSM ANALYTICS PORTAL
 
 Hot Strip Mill Production Monitoring & Reporting System
 
-⸻
+
 
 1. Project Overview
 
@@ -12,7 +12,7 @@ The application connects directly to the production database and provides real-t
 
 The objective of this project is to replace manual report preparation with a centralized analytics portal.
 
-⸻
+
 
 2. Technologies Used
 
@@ -45,7 +45,7 @@ Other Libraries
 * OpenPyXL
 * NumPy
 
-⸻
+
 
 3. Software Requirements
 
