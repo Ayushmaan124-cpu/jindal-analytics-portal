@@ -24,8 +24,7 @@ import RRSAnalysis from "./pages/RRSAnalysis.jsx";
 import ProductionData from "./pages/ProductionData.jsx";
 import ReportsDownloads from "./pages/ReportsDownloads.jsx";
 import DatabaseStatus from "./pages/DatabaseStatus.jsx";
-const API_BASE = `http://${window.location.hostname}:5000`;
-
+const API_BASE = "https://jindal-hsm-analytics-api.onrender.com";
 export default function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [username, setUsername] = useState("");
